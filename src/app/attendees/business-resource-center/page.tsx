@@ -88,7 +88,7 @@ export default function BusinessResourceCenter() {
                             please contact{' '}
                             <a
                                 href="mailto:pad@maxxmedia.in"
-                                className="text-[#144380] font-semibold no-underline hover:text-[#27b8cf]"
+                                className="text-[#003366] font-semibold no-underline hover:text-[#27b8cf]"
                             >
                                 pad@maxxmedia.in
                             </a>
@@ -97,7 +97,7 @@ export default function BusinessResourceCenter() {
                         <div className="mt-4">
                             <h3 className="font-display font-semibold text-lg text-[#05264A827] uppercase">Padmanabham R</h3>
 
-                            <a href="tel:+12403981385" className="text-[#144380] font-semibold hover:underline mt-1 inline-block">
+                            <a href="tel:+12403981385" className="text-[#003366] font-semibold hover:underline mt-1 inline-block">
                                 +91 91483 19993
                             </a>
                         </div>
