@@ -298,7 +298,7 @@ export default function Header() {
                 {/* Two-line: ≤ 1824px */}
                 <span className="block text-left whitespace-pre-line min-[1825px]:hidden">{`REQUEST ATTENDEE\n INFORMATION`}</span>
                 {/* Single-line: ≥ 1825px */}
-                <span className="hidden min-[1825px]:block text-left whitespace-nowrap">ATTENDEE REGISTRATION</span>
+                <span className="hidden min-[1825px]:block text-left whitespace-nowrap">VISITOR REGISTRATION</span>
                 <span
                   className={`rounded-full bg-[#ebebeb] flex items-center justify-center text-[#121c4e] transition-all duration-300 ease-[cubic-bezier(0.4,0,0.2,1)] group-hover:bg-white shrink-0 ${isScrolled ? 'w-[34px] h-[34px]' : 'w-[44px] h-[44px]'
                     }`}
