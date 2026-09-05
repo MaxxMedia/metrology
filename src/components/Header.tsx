@@ -205,8 +205,8 @@ export default function Header() {
               <Image
                 src="/images/indiamet_logo.png"
                 alt="Logo"
-                width={280}
-                height={90}
+                width={240}
+                height={120}
                 priority
                 className={`transition-all duration-300 ease-[cubic-bezier(0.4,0,0.2,1)] h-auto ${isScrolled
                   ? 'w-[170px] max-[1525px]:w-[145px] max-[1439px]:w-[155px] max-[600px]:w-[145px] max-[375px]:w-[130px] max-[575px]:w-[195px] max-[375px]:w-[170px]'
