@@ -6,7 +6,7 @@ export default function Footer() {
         <footer
   className="w-full text-white pt-20 pb-0 font-sans border-t border-white/10"
   style={{
-    background: "linear-gradient(135deg, #144380 0%, #06345F 25%, #07406F 50%, #0A4C81 75%, #0D5A96 100%)",
+    background: "linear-gradient(135deg, #07847E 0%, #06345F 25%, #07406F 50%, #0A4C81 75%, #0D5A96 100%)",
   }}
 >
             <Container>
@@ -133,7 +133,7 @@ export default function Footer() {
             </Container>
 
             {/* Bottom Bar (Solid Black/Dark Blue) */}
-            <div className="bg-[#144380] py-5 w-full">
+            <div className="bg-[#07847E] py-5 w-full">
                 <div className="max-w-[1200px] mx-auto px-5 max-sm:px-4 flex justify-between items-center max-sm:flex-col max-sm:gap-3 text-white text-[13px] font-body">
                     <Link
                         href="/privacy-policy"
