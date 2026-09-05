@@ -58,9 +58,9 @@ Update in `Header.tsx` and `Footer.tsx`:
 
 ### 3. Contact Info
 In `Footer.tsx`, replace placeholder emails:
-- `info@yourexpo.com`
-- `attendees@yourexpo.com`
-- `exhibitors@yourexpo.com`
+- `pad@maxxmedia.in`
+- `visitor@indiametexpo.com`
+- `exhibitor@indiametexpo/com`
 And phone numbers / contact names.
 
 ### 4. Navigation
